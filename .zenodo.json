@@ -1,0 +1,35 @@
+{
+  "title": "Sikhi.io: research contribution and attribution record",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Records the project contribution account supplied by its founder. Publication preserves a dated statement; it does not independently verify every historical claim or assign authorship of underlying source works. CC BY 4.0 applies only to this newly prepared contribution record and its original metadata. No licence is granted here over source books, third-party translations, dataset contents or private platform code.",
+  "creators": [
+    {
+      "name": "Sodhi, Sukhjeet Singh",
+      "affiliation": "Sikhi.io / Sikh Archive"
+    }
+  ],
+  "publication_date": "2026-11-01",
+  "version": "2026.11.01.1",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Sikh studies",
+    "digital humanities",
+    "research attribution",
+    "digital preservation",
+    "AI-assisted translation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.sikhi.io/about",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/jsdosanj/SikhLibrary",
+      "relation": "references",
+      "scheme": "url"
+    }
+  ]
+}

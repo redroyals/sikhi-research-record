@@ -1,0 +1,91 @@
+{
+  "id": "sikhi-contribution-record-2026-11-01",
+  "version": "2026.11.01.1",
+  "recordDate": "2026-11-01",
+  "title": "Sikhi.io: research contribution and attribution record",
+  "recordAuthor": "Sukhjeet Singh Sodhi",
+  "recordType": "Dated project contribution account",
+  "projectFounded": "2025-10-25",
+  "projectFoundedScope": [
+    "Sikh Archive",
+    "Sikhi.io"
+  ],
+  "profileUrl": "https://www.sikhi.io/about",
+  "publicRepository": "https://github.com/redroyals/sikhi-research-record",
+  "doi": null,
+  "independentScholarlyValidation": false,
+  "scope": "Records the project contribution account supplied by its founder. Publication preserves a dated statement; it does not independently verify every historical claim or assign authorship of underlying source works.",
+  "contributors": [
+    {
+      "name": "Sukhjeet Singh Sodhi",
+      "familyName": "Sodhi",
+      "givenNames": "Sukhjeet Singh",
+      "profile": "https://www.sikhi.io/about#founder",
+      "sameAs": [
+        "https://github.com/redroyals",
+        "https://www.linkedin.com/in/sodhis/"
+      ],
+      "roles": [
+        "Founder of Sikh Archive and Sikhi.io",
+        "AI OCR methodologies",
+        "Library-wide AI-assisted translation and audit workflows",
+        "Multilingual workflows and source alignment",
+        "Corpus expansion and audits",
+        "Sikhi.io, SikhiUni, PanjabiUni and international platform engineering"
+      ],
+      "translationCredit": "Developed and applied the AI-assisted translation logic and audit workflows across the library book-processing programme, using his own translation approach or building on credited translators’ approaches where applicable. This is credit for the processing and translation work, not authorship of original source books or existing translations.",
+      "datedContributions": [
+        {
+          "date": "2026-09-09",
+          "description": "Approximately 3,000 books added",
+          "basis": "Project contribution account"
+        }
+      ]
+    },
+    {
+      "name": "Jasvant Singh Dosanjh",
+      "familyName": "Dosanjh",
+      "givenNames": "Jasvant Singh",
+      "profile": "https://www.sikhi.io/about#collaboration",
+      "sameAs": [
+        "https://github.com/jsdosanj"
+      ],
+      "roles": [
+        "Founder of SikhiUni",
+        "Founder and maintainer of SikhLibrary on Hugging Face",
+        "Book and dataset contributions",
+        "Educational direction"
+      ],
+      "datedContributions": [
+        {
+          "date": "2026-06-06",
+          "description": "Approximately 1,000 books contributed",
+          "basis": "Project contribution account"
+        }
+      ]
+    }
+  ],
+  "sourceAttribution": {
+    "rule": "Original authors, editors, publishers, source editions and existing translators retain their respective attribution and rights. Cite the particular source or translation used as well as the processing work where relevant.",
+    "scripture": "Multilingual scripture workflows build on separately credited English translations. Record the translator and edition used; do not attribute an inherited translation to the platform developer.",
+    "faridkot": "English line alignment can reuse existing English source commentary; alignment audits are not necessarily a new translation.",
+    "guruStories": "Credit Gurpurshotam for the English source material where used."
+  },
+  "relatedDataset": {
+    "name": "SikhLibrary",
+    "url": "https://huggingface.co/datasets/jsdosanj/SikhLibrary",
+    "founderAndMaintainer": "Jasvant Singh Dosanjh",
+    "dataContributors": [
+      "Jasvant Singh Dosanjh",
+      "Sukhjeet Singh Sodhi"
+    ],
+    "citationUrl": "https://huggingface.co/datasets/jsdosanj/SikhLibrary#how-to-cite",
+    "citationAuthorsAsPublished": [
+      "Jasvant Singh",
+      "Sukhjeet Singh Sodhi, LLB (Hons)"
+    ],
+    "citationVersionAsConsulted": "3.1",
+    "consultedOn": "2026-11-01"
+  },
+  "rights": "CC BY 4.0 applies only to this newly prepared contribution record and its original metadata. No licence is granted here over source books, third-party translations, dataset contents or private platform code."
+}

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+type: dataset
+title: "Sikhi.io: research contribution and attribution record"
+message: "Cite this record when discussing the recorded project contributions. Underlying works and SikhLibrary retain their own source and dataset citations."
+authors:
+  - family-names: Sodhi
+    given-names: Sukhjeet Singh
+    website: https://www.sikhi.io/about#founder
+version: 2026.11.01.1
+date-released: 2026-11-01
+url: https://www.sikhi.io/about
+repository: https://github.com/redroyals/sikhi-research-record
+license: CC-BY-4.0
+abstract: "A dated project account of Sukhjeet Singh Sodhi and Jasvant Singh Dosanjh's contributions, separating processing, translation workflows, engineering, dataset maintenance and original-source authorship. This is not an archive of the underlying books or proprietary code."
